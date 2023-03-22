@@ -1,15 +1,12 @@
 {
   "name": "@fi-nik/eslint-config-react-native-import-order",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Customized import order used for react native projects",
   "keywords": [
     "eslint",
     "eslintplugin",
     "eslint-plugin"
   ],
-  "publishConfig": {
-    "@fi-nik:registry": "https://npm.pkg.github.com"
-  },
   "author": "Filip Nikolic <fi.nik@outlook.com>",
   "main": "index.js",
   "scripts": {
