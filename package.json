@@ -7,9 +7,14 @@
     "eslintplugin",
     "eslint-plugin"
   ],
+  "publishConfig": {
+    "@fi-nik:registry": "https://npm.pkg.github.com"
+  },
   "author": "Filip Nikolic <fi.nik@outlook.com>",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "exit 0"
+  },
   "dependencies": {
     "eslint-plugin-simple-import-sort": "^10.0.0",
     "eslint-plugin-unused-imports": "^2.0.0"
