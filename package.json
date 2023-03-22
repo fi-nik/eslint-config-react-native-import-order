@@ -1,0 +1,22 @@
+{
+  "name": "@fi-nik/eslint-config-react-native-import-order",
+  "version": "1.0.0",
+  "description": "Customized import order used for react native projects",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "Filip Nikolic <fi.nik@outlook.com>",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "eslint-plugin-simple-import-sort": "^10.0.0",
+    "eslint-plugin-unused-imports": "^2.0.0"
+  },
+  "devDependencies": {},
+  "peerDependencies": {
+    "eslint": "^8.0.0"
+  },
+  "license": "ISC"
+}
