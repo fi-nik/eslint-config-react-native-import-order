@@ -1,5 +1,12 @@
 module.exports = {
   plugins: ["simple-import-sort", "unused-imports"],
+  settings: {
+    'import/resolver': {
+      node: {
+        extensions: ['.js', '.jsx', '.ts', '.tsx'],
+      },
+    },
+  },
   rules: {
     "simple-import-sort/imports": [
       "error",
