@@ -1,6 +1,6 @@
 {
   "name": "@fi-nik/eslint-config-react-native-import-order",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Customized import order used for react native projects",
   "keywords": [
     "eslint",
